@@ -4,10 +4,6 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+<p>
+  I graduated with a BASc in Civil Engineering from University of British Columbia. I am presently working as a junior design engineer (EIT) in the telecommunication industry. Join me on my journey to learn about machine learning and computer science. <br> <br> Thank you for visiting!
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.

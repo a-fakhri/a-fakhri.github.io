@@ -3,10 +3,17 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ali F
+title:            Ali Fakhri
 tagline:          'Personal Website'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'BASc in Civil Engineering<br>Engineer-in-Training'
 url:              https://a-fakhri.github.io
+github_username:  a-fakhri
+linkedin:         alifakhriubc
+email:            afakhri@protonmail.com
+# version:          0.1
+google_analytics: "UA-174909639-1"
+# disqus:
+  # shortname: afakhri
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

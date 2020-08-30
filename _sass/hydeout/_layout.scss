@@ -22,6 +22,14 @@
   we want the sidebar or header to stretch.
 */
 
+//Added by Ali
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+//Added by Ali
+
 body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
@@ -37,7 +45,7 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Abril Fatface', serif;
+    font-family: 'Playfair Display', serif;
     font-size: $large-font-size;
     font-weight: normal;
     margin-bottom: $heading-spacing;
@@ -230,7 +238,7 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      max-width: 40rem;
       padding: 0;
     }
   }
