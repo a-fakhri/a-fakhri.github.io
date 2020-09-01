@@ -1,6 +1,7 @@
 ---
 layout: post_no_comments
 title: "Drainage System Design"
+excerpt_separator:  <!--more-->
 categories:
   - Projects
 tags:
@@ -17,8 +18,9 @@ This project was completed as part of the Municipal Engineering (CIVL 409) cours
 Our group was tasked with developing a Master Drainage Plan (MDP) for a new development in Deep Cove within
 the District of North Vancouver. We were required to use the City of Surrey’s Design Criteria Manual as the basis of our design. As part of preparing the MDP, we needed to develop the conceptual layout to convey minor and major storm events, and identify the facilities and source control measures to protect the downstream aquatic habitat.<br><br>
 
-The final report was submitted on April 5, 2019. The excerpt of most of my contribution to the report (unedited since the date of submission) is displayed below.
+The final report was submitted on April 5, 2019. A major portion of my contribution to the report (unedited since the date of submission) is displayed below. Click <a href="{{ site.url }}{{ site.baseurl }}/assets/pdfs/409 - Assignment 2 - Team 21 - Ali's Section only.pdf" download>here</a> to download the pdf version.
 </div>
+<!--more-->
 ---
 
 ### 3.4 Detention Pond

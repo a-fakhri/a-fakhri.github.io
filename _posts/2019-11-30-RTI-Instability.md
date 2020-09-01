@@ -2,6 +2,7 @@
 layout: post_no_comments
 title: "Properties of mixing caused by Rayleigh-Taylor
 Instability"
+excerpt_separator:  <!--more-->
 categories:
   - Projects
 tags:
@@ -20,6 +21,7 @@ The contents of the final paper, submitted on November 30, 2018, are displayed b
 Click <a href="{{ site.url }}{{ site.baseurl }}/assets/pdfs/RTI Instability - Ali Fakhri.pdf" download>here</a> to download the pdf version.
 
 </div>
+<!--more-->
 ---
 
 ### 1.0 Introduction
