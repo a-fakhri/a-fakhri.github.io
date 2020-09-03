@@ -11,7 +11,7 @@ github_username:  a-fakhri
 linkedin:         alifakhriubc
 email:            afakhri@protonmail.com
 # version:          0.1
-google_analytics: UA-174909639-1
+google_analytics: 'UA-174909639-1'
 # disqus:
   # shortname: afakhri
 # baseurl:          '/home'
