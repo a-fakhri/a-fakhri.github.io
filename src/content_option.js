@@ -1,18 +1,18 @@
-const logotext = "JOHN";
+const logotext = "ALI FAKHRI";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ali Fakhri | Personal Website",
+    description: "I'm Ali Fakhri. I solve problems with code. Former machine learning researcher at Polytechnique Montreal, where I applied ML to solve civil engineering problems.",
 };
 
 const introdata = {
-    title: "I’m Ali",
+    title: "I'm Ali :",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I solve problems with code",
+        second: "ML researcher",
+        third: "Civil Engineer",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Former machine learning researcher at Polytechnique Montreal. My research focused on addressing civil engineering problems with machine learning.",
+    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
@@ -136,21 +136,21 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "message.ali.f@pm.me",
+    // YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_ux0837l",
+    YOUR_TEMPLATE_ID: "template_ip17018",
+    YOUR_USER_ID: "5HGiKig-fuAsr5UWy",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/a-fakhri",
+    // facebook: "https://facebook.com",
+    linkedin: "https://linkedin.com/in/alifakhriubc",
+    // twitter: "https://twitter.com",
 };
 export {
     meta,
