@@ -1,0 +1,5 @@
+---
+title: Ali Fakhri
+---
+{% assign about = site.pages | where: "name", "about.md" | first %}
+{{ about.content | markdownify }}

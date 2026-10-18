@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <style>
+    body { max-width: 640px; margin: 12vh auto; padding: 0 24px; font: 16px/1.8 ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; color: #242424; background: #fff; }
+    h1 { font-size: 2rem; line-height: 1.2; letter-spacing: -0.03em; }
+    a { color: #2459a6; text-underline-offset: 3px; }
+    a:hover { text-decoration-thickness: 2px; }
+  </style>
+  {% if jekyll.environment == 'production' and site.goatcounter_code %}
+  <script data-goatcounter="https://{{ site.goatcounter_code | escape }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  {% endif %}
+</head>
+<body>
+  <main>{{ content }}</main>
+</body>
+</html>

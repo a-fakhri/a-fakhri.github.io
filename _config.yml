@@ -1,0 +1,12 @@
+title: Ali Fakhri
+url: "https://a-fakhri.github.io"
+markdown: kramdown
+exclude:
+  - vendor
+  - .bundle
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+goatcounter_code: a-fakhri
